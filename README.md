@@ -1,2 +1,2 @@
-# GlitchDiscord
- 123
+# discordbot
+Simple discord bot made with Discord Bot Maker.
